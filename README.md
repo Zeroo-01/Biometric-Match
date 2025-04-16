@@ -1,5 +1,5 @@
 
-# 🔍 Fingerprint Matching Model
+# 🔍 Biometric Match
 
 This project is an implementation of a fingerprint matching system using Python. It includes preprocessing, enhancement, feature extraction, and a simple fingerprint comparison model. Ideal for biometric authentication systems, academic projects, or proof-of-concept demos.
 

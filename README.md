@@ -88,12 +88,6 @@ This script will run the pipeline and save a visual output as `result.png`.
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change or improve.
